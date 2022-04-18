@@ -5,6 +5,6 @@ using namespace std;
 int main()
 {
 	setlocale(LC_ALL, "Russian");
-	cout << "Привет, мир!\n";
-	cout << "Как у вас дела?\n";
+	cout << "Группа: ИВТ-б-о-21-1\n";
+	cout << "Студент: Мальцев Николай Артемович\n";
 }
